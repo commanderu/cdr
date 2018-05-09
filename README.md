@@ -107,6 +107,7 @@ If you have any further questions you can find us at:
 - irc.freenode.net (channel #commanderu)
 - [webchat](https://webchat.freenode.net/?channels=commanderu)
 - forum.commanderu.org
+- https://discord.gg/AmTFKUa
 - commanderu.slack.com
 
 ## Issue Tracker
