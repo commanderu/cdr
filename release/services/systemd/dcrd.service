@@ -1,0 +1,13 @@
+[Unit]
+Description=commanderu Full Node
+
+[Service]
+Type=simple
+User=cdrd
+Group=cdrd
+WorkingDirectory=/var/cdrd
+ExecStart=/opt/commanderu/bin/cdrd --appdata=/var/cdrd
+Restart=on-abnormal
+
+[Install]
+WantedBy=multi-user.target
